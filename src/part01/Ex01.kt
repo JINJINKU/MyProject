@@ -50,4 +50,4 @@ import java.util.*
 //    var y : Int = 100
 //}
 
-var n : Int? = null
+//var n : Int? = null
